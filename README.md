@@ -26,7 +26,7 @@
   <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Always~Learning.... </i></b><img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50"/>
 </p>
 
-<img align="right" width=300px alt="Man" src="extra\8JIe.gif" height="350" width="200" style="padding-right: 50px;" />
+<img align="right" width=300px alt="Man" src="https://i.pinimg.com/originals/cc/d2/92/ccd2926b176eb5cf2c2ee638ec1d0aea.gif" height="350" width="200" style="padding-right: 50px;" />
 
 <img src="https://media2.giphy.com/media/EEzsFyPdvrG0w/giphy.gif" width="40px" >&nbsp;***About-Me...***
 
