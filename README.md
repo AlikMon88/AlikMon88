@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    I am Alik Mondal, a <b>2nd year</b> undergraduate from <a href="https://bcas.du.ac.in//"> <b>BCAS, Delhi University</b></a>
+    I am Alik Mondal, a <b>2nd year</b>Physics undergraduate from <a href="https://bcas.du.ac.in//"> <b>BCAS, Delhi University</b></a>
     A budding <b>Machine-Learning Engineer~Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist~Learner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>interested<b> </b>
     with the idea of <b>Artifical General Intelligence</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
