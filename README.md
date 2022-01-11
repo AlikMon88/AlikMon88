@@ -58,6 +58,9 @@
   <code> <img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"> </code>
   <code> <img height="50" src="https://www.pngkey.com/png/full/96-961478_in-order-to-show-how-holoviews-works-well.png"> </code>
   <img height="50" src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png">
+  <code><img height="50" src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
+  
   <hr>
   <p align="center">
  <img src="https://i.pinimg.com/originals/37/5c/94/375c94ad0dbcbbf229d2938cba4aac45.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://i.pinimg.com/originals/37/5c/94/375c94ad0dbcbbf229d2938cba4aac45.gif" width="30px" alt="GitHub-Status"/></p>
