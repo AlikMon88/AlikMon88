@@ -28,7 +28,7 @@
 
 <img align="right" width=300px alt="Man" src="https://media1.giphy.com/media/l3nWk9GdJ24B3OuY0/giphy-downsized.gif" height="350" width="200" style="padding-right: 50px;" />
 
-<img src="https://i.gifer.com/xv.gif" width="40px" >&nbsp;***About-Me...***
+<img src="https://acegif.com/wp-content/uploads/2020/11/am0ngsusxh-36.gif" width="40px" >&nbsp;***About-Me...***
 
 ✔ Pronouns: ***He/His*** <br>
 ✔ I’m currently ==>> **Implementing Research Papers** | **Competing in Kaggle** | **Learning new Algorithms everyday**<br>
