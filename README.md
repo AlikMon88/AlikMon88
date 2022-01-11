@@ -26,9 +26,9 @@
   <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Always~Learning.... </i></b><img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50"/>
 </p>
 
-<img align="right" width=300px alt="Man" src="https://i.pinimg.com/originals/cc/d2/92/ccd2926b176eb5cf2c2ee638ec1d0aea.gif" height="350" width="200" style="padding-right: 50px;" />
+<img align="right" width=300px alt="Man" src="https://media1.giphy.com/media/l3nWk9GdJ24B3OuY0/giphy-downsized.gif" height="350" width="200" style="padding-right: 50px;" />
 
-<img src="https://media1.giphy.com/media/l3nWk9GdJ24B3OuY0/giphy-downsized.gif" width="40px" >&nbsp;***About-Me...***
+<img src="https://i.gifer.com/xv.gif" width="40px" >&nbsp;***About-Me...***
 
 ✔ Pronouns: ***He/His*** <br>
 ✔ I’m currently ==>> **Implementing Research Papers** | **Competing in Kaggle** | **Learning new Algorithms everyday**<br>
