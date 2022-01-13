@@ -60,6 +60,7 @@
   <img height="50" src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png">
   <code><img height="50" src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
+  <code><img height="50" src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png"></code>
   
   <hr>
   <p align="center">
