@@ -6,7 +6,6 @@
 <h3 align="center"> Deep Learning | Scientific ML | Applied Mathematics </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alik-mondal-921a971aa/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkdin" height="40" width="40" /></a>
-<a href="https://www.facebook.com/micheal.fernandez.73307/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="fb" height="40" width="40" /></a>
  <a href = "mailto: aliktrikemaf@gmail.com"><img align="center" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" height="40" width="40" /></a>
 </p>
 </p>
