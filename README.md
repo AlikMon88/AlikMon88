@@ -2,8 +2,8 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/287/39/645/artificial-intelligence-ai-black-wallpaper-preview.jpg" height="200"/>
 </p>
 <hr>
-<h1 align="center" style="padding-right: 70px"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="70" style="padding-right: 20px;"> I'm Alik Mondal</h1>
-<h3 align="center">Deep Learner | Machine Learner | Data Science Enthusiast</h3>
+<h1 align="center" style="padding-right: 70px"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="70" style="padding-right: 20px;"> I'm Alik </h1>
+<h3 align="center"> Deep Learning | Scientific ML | Applied Mathematics </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alik-mondal-921a971aa/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkdin" height="40" width="40" /></a>
 <a href="https://www.facebook.com/micheal.fernandez.73307/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="fb" height="40" width="40" /></a>
@@ -17,10 +17,8 @@
 <p align="center">
   <em>
     I am Alik Mondal, a recent physics graduate from <b> Delhi University </b>
-    A budding <b>Machine-Learning Engineer~Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist~Learner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>interested<b> </b>
-    with the idea of <b>Artifical General Intelligence</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>succeed</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    I'm interested in transferring theoretical contructs from Physics to Deep Learning frameworks and vice-versa. Particularly, I want to explore the Phyiscal 
+    interpretation of various 'Black-Box' models through Scientific Machine Learning. 
   </em> 
   <br>
   <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Always~Learning.... </i></b><img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50"/>
@@ -32,7 +30,7 @@
 
 ✔ I’m currently exploring **Intersection of Machine Learning and Physical Sciences** | **Equation Discovery of Complex Dynamic Systems** <br>
 ✔ I’m currently interested in **Probabilistic Programming** | **Generative Modeling** | **Computer Vision**<br>
-✔ I’m looking to Collaborate | Brainstorm with Eccentric Minds<br>
+✔ I’m looking to Collaborate with Eccentric Minds<br>
 ✔ You can contact me anytime, from anywhere! <br><br><br>
  
 <hr>
