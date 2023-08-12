@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    I am Alik Mondal, a <b>2nd year</b> Physics undergraduate from <a href="https://bcas.du.ac.in//"> <b>BCAS, Delhi University</b></a>
+    I am Alik Mondal, a recent physics graduate from <b> Delhi University </b>
     A budding <b>Machine-Learning Engineer~Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist~Learner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>interested<b> </b>
     with the idea of <b>Artifical General Intelligence</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -30,45 +30,11 @@
 
 <img src="https://acegif.com/wp-content/uploads/2020/11/am0ngsusxh-36.gif" width="40px" >&nbsp;***About-Me...***
 
-✔ Pronouns: ***He/His*** <br>
-✔ I’m currently ==>> **Implementing Research Papers** | **Competing in Kaggle** | **Learning new Algorithms everyday**<br>
-✔ I’m currently learning **Neural Program Synthesis** | **Generative Models** | **Graph NN**<br>
-✔ I’m looking to work | brainstorm | collaborate with various eccentric/curious minds<br>
-✔ I’m looking to implement my Comp. Vision models in ***Embedded systems***<br>
-✔ I write kernels in [kaggle](https://www.kaggle.com/alikmondal) <br>
-✔ Contact me anytime, from anywhere!😁<br><br><br>
+✔ I’m currently exploring **Intersection of Machine Learning and Physical Sciences** | **Equation Discovery of Complex Dynamic Systems** <br>
+✔ I’m currently interested in **Probabilistic Programming** | **Generative Modeling** | **Computer Vision**<br>
+✔ I’m looking to Collaborate | Brainstorm with Eccentric Minds<br>
+✔ You can contact me anytime, from anywhere! <br><br><br>
  
-
-<img src="https://media2.giphy.com/media/EEzsFyPdvrG0w/giphy.gif" width="40px">&nbsp;***Skills & Tools ...***
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px">
-<p align="left">
-  
-  <code><img height="50" src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code> 
-  <code><img height="50" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"> </code>
-  <code> <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CcKM1XudBFX-_HbPn-o0tAm2Z4Z6Ca6Pvw5YyyShj5FMaFXsvs6RwowiD7jpquloIqY&usqp=CAU"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg"> </code>
-  <code> <img height="50" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"> </code>
-  <code> <img height="50" src="https://www.pngkey.com/png/full/96-961478_in-order-to-show-how-holoviews-works-well.png"> </code>
-  <img height="50" src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png">
-  <code><img height="50" src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
-  <code><img height="50" src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png"></code>
-  
-  <hr>
-  <p align="center">
- <img src="https://i.pinimg.com/originals/37/5c/94/375c94ad0dbcbbf229d2938cba4aac45.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://i.pinimg.com/originals/37/5c/94/375c94ad0dbcbbf229d2938cba4aac45.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlikMon88&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlikMon88&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
-
 <hr>
 
 Thanks for 😻 Reading:
