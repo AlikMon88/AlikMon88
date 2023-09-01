@@ -38,8 +38,6 @@ Thanks for 😻 Reading:
 <div>
     <img src="https://pic.funnygifsbox.com/uploads/2019/09/funnygifsbox.com-2019-09-15-07-44-34-43.gif" style="width: 50px; height: 50px; float: left" />
     <img src="https://media2.giphy.com/media/zMBxHAnCevIXu/200w.gif" style="width: 50px; height: 50px; float: right;" />
-    <img src="https://pic.funnygifsbox.com/uploads/2019/10/funnygifsbox.com-2019-10-01-12-43-31-62.gif" style="display:block; margin-left: auto; margin-right:auto; width:50px;" />
-        
 </div>
 
 <hr>
