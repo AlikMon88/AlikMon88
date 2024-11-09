@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    I am Alik Mondal, a recent physics graduate from <b> Delhi University </b>
+    I am Alik Mondal, a masters student from <b> University of Cambridge </b>
     I'm interested in transferring theoretical contructs from Physics to Deep Learning frameworks and vice-versa. Particularly, I want to explore the Phyiscal 
     interpretation of various 'Black-Box' models through Scientific Machine Learning. 
   </em> 
