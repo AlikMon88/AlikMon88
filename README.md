@@ -6,8 +6,7 @@
 
 <p align="center">
   <em>
-    I am Alik, a postgraduate from <b> University of Cambridge </b>.
-    I'm interested in transferring theoretical contructs from Physics to Deep Learning frameworks and vice-versa. Particularly, I want to explore the Phyiscal 
-    interpretation of various 'Black-Box' models through Scientific Machine Learning. 
+    I am Alik, a postgraduate from the <b>University of Cambridge</b>.
+I am interested in transferring theoretical constructs from physics to deep learning frameworks and vice versa. In particular, I aim to explore the physical interpretation of various 'black-box' models through scientific machine learning.
   </em> 
   <br>
